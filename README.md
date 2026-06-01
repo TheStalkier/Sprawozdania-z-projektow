@@ -6,8 +6,8 @@
 
 ## 👤 O mnie
 
-**Dawid Stachiewicz** — absolwent kierunku Informatyka i Ekonometria.  
-Zainteresowania: cyberbezpieczeństwo, testy penetracyjne, administracja serwerami Linux, aplikacje webowe i analiza danych.
+**Dawid Stachiewicz** — absolwent kierunku Inżynieria i Analiza Danych oraz obecny student kierunku Informatyka na specjalizacji Cyberbezpieczeństwo.  
+Zainteresowania: Cyberbezpieczeństwo, testy penetracyjne, aplikacje webowe i analiza danych.
 
 📧 Kontakt przez profil GitHub: [TheStalkier](https://github.com/TheStalkier)
 
